@@ -9538,8 +9538,25 @@ return(adjusted_time);
         
 	if(min(adjusted_time_vec,na.rm=TRUE)<0){
 	
-		adjusted_time_vec[which(adjusted_time_vec<0)]<-original_time[which(adjusted_time_vec<0)]
+		if(max(original_time)<300){
+		
+			adjusted_time_vec[which(adjusted_time_vec<20)]<-original_time[which(adjusted_time_vec<20)]
+	
+			
+		}else{
+			
+			adjusted_time_vec[which(adjusted_time_vec<20)]<-original_time[which(adjusted_time_vec<20)]
+	
+			
+			
+		
+		}
+	
+	
+	
 	}
+	
+	
 	
     
     dataA$time<-adjusted_time_vec
