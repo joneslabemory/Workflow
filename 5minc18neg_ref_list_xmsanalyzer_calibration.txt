@@ -1,0 +1,354 @@
+mz	time	Name	Calibration
+146.0458	20	Glutamate	0
+145.0983	69	Lysine	0
+154.0622	23	Histidine	0
+203.0826	26	Tryptophan	0
+173.1044	23	Arginine	0
+361.163	24	Thyrotropin Releasing Hormone	0
+523.8861	31	Diiodothyronine	0
+775.6794	72	Thyroxine	1
+158.0611	60	Indole-3-acetaldehyde	0
+174.0561	27	Indoleacetate	0
+189.0881	19	Diaminopimelate	0
+174.0408	21	N-Acetylaspartate	0
+188.0564	21	Acetylglutamate	0
+190.0543	22	Acetylmethionine	0
+87.0087	20	Pyruvate	0
+89.0244	22	Lactate	0
+101.0244	22	Acetoacetate	0
+101.0244	22	2-Ketobutyric acid	0
+191.0197	19	Citric acid	0
+191.0197	19	Isocitric acid	0
+173.0091	19	(Cis	0
+145.0142	21	??-Ketoglutarate (Oxoglutarate)	0
+117.0193	21	Succinic acid	0
+117.0193	21	Methylmalonic acid	0
+115.0037	21	Fumaric acid	0
+133.0143	21	Malic acid	0
+103.0401	23	??-OH-butyrate	0
+103.0401	23	??-OH butyrate	0
+105.0193	20	Glyceric acid	0
+115.0401	20	Oxovaleric acid	0
+115.0401	20	??-Ketoisovalerate (Ketovaline)	0
+115.0401	20	Oxovalerate	0
+129.0557	24	??-Ketoisocaproate (Ketoleucine)	0
+129.0557	24	??-Keto-??-methyl-valerate (Ketoisoleucine)	0
+129.0557	24	Ketoleucine	0
+161.0456	23	Hydroxymethylglutarate	0
+147.0663	22	Mevalonic acid	0
+129.0193	22	2-Methylmaleate	0
+131.035	25	Glutaric acid	0
+131.035	21	Ethylmalonic acid	0
+145.0506	25	Adipate	0
+159.0299	21	Oxoadipic acid	0
+161.0455	0	Hydroxyadipic acid	0
+171.0299	20	Dehydroshikimate	0
+173.0456	18	Shikimic acid	0
+173.0819	25	Suberate	0
+187.0976	25	Azelaic acid	0
+121.0295	23	Benzoate	0
+137.0244	24	2-Hydroxybenzoate (Salicylic acid)	0
+137.0244	24	3-Hydroxybenzoate	0
+137.0244	24	4-Hydroxybenzoate	0
+137.0244	24	Hydroxybenzoate	0
+153.0193	24	"2,4-Dihydroxybenzoate"	0
+153.0193	24	"3,5-Dihydroxybenzoate"	0
+153.0193	24	"2,6-Dihydroxybenzoate"	0
+153.0193	24	"2,3-Dihydroxybenzoate (2-pyrocatechuate)"	0
+153.0193	24	"3,4-Dihydroxybenzoate (Protocatechuic acid)"	0
+153.0193	24	"2,5-Dihydroxybenzoate (Gentisic acid)"	0
+153.0193	24	Dihydroxybenzoate	0
+135.0452	26	2-Phenylacetate	0
+151.0401	24	Mandelic acid	0
+151.0401	0	2-Methoxybenzoic acid	0
+151.0401	0	3-Methoxybenzoic acid	0
+151.0401	24	p-Hydroxyphenylacetic acid	0
+151.0401	24	o-Hydroxyphenylacetic acid	0
+151.0401	25	m-Hydroxyphenylacetic acid	0
+151.0401	0	Vanillin	0
+151.0401	25	Hydroxyphenylacetate	0
+167.035	0	Vanillic acid	0
+167.035	0	m-Hydroxymandelic acid	0
+167.035	0	p-Hydroxymandelic acid	0
+167.035	25	Homogentisate	0
+147.0448	30	Cinnamic acid	0
+163.0401	25	Coumarate	0
+181.0495	31	Caffeic acid	0
+149.0608	0	4-Ethylbenzoic acid	0
+149.0608	36	Hydrocinnamic acid	1
+149.0608	0	2-Phenylpropionate	0
+181.0506	23	Hydroxyphenyllactate	0
+181.0506	23	Homovanillate	0
+181.0506	23	"3,4-Dihydroxyphenylpropionic acid (DHPP)"	0
+181.0506	23	Hydroxyphenyllactate	0
+165.0558	25	Hydroxyphenylpropionate	0
+197.0456	24	Vanillylmandelate	0
+191.0561	22	Quinic acid	0
+195.0652	30	Ferulic acid	0
+166.0146	22	Quinolinate	0
+166.9751	18	Phosphoenolpyruvate	0
+184.9856	24	2-Phosphoglycerate	0
+184.9856	24	3-Phosphoglycerate	0
+184.9856	24	Phosphoglycerate	0
+195.051	20	Gluconic acid	0
+209.0303	20	Saccharic acid	0
+209.0303	19	Galactarate	0
+209.0303	20	Tetrahydroxyhexanedioic acid (Saccharate	0
+359.0772	22	Rosamarinic acid	0
+110.0247	20	Pyrrole carboxylate	0
+118.9808	20	Mercaptopyruvate	0
+157.0273	22	Erythritol	0
+157.0273	22	Threitol	0
+157.0273	22	Erythritol	0
+199.0379	22	2-Deoxyglucose	0
+149.0455	22	Arabinose	0
+149.0455	22	Xylose	0
+149.0455	22	Ribose	0
+215.0328	22	Glucose	0
+258.0385	23	N-Acetylglucosamine	0
+308.0987	20	N-Acetylneuraminate	0
+382.5507	30	CoA	0
+403.5556	32	Acetyl-CoA	0
+410.5634	32	Propionyl-CoA	0
+417.5713	32	C4-CoA	0
+423.5713	32	C5:1-CoA	0
+424.5791	35	C5-CoA	0
+431.5869	35	Hexanoyl-CoA	0
+445.026	35	Octanoyl-CoA	0
+459.6182	35	Decanoyl-CoA	0
+489.6641	36	Myristoyl-CoA	0
+501.6652	45	Palmitoyl-CoA	0
+299.2017	226	Retinoic acid	0
+87.0451	20	FA 4:0 (Butyrate	0
+101.0608	20	"FA 5:0 (Valerate, Isovalerate, others)"	0
+115.0765	22	"FA 6:0 (Caproate, Isocaproate, others)"	0
+129.0921	44	FA 7:0	0
+143.1078	77	FA 8:0 (Octanoate)	0
+157.1234	100	FA 9:0	1
+187.134	38	OH-FA10:0	0
+199.1704	180	FA 12:0 (Laurate)	1
+215.1653	59	OH-FA12:0	0
+227.2017	220	FA 14:0 (Myristate)	1
+253.2173	228	FA 16:1 (Palmitoleic)	1
+255.233	252	FA 16:0 (Palmitate)	1
+269.2486	266	FA 17:0	1
+277.2173	223	FA 18:3 n-3 or n-6 (Linolenic acid)	1
+279.233	238	FA 18:2 (Linoleic acid)	1
+281.2486	258	FA 18:1 (Oleic acid)	1
+283.2643	282	FA 18:0 (Stearic acid)	1
+311.2955	298	FA 20:0 (Arachidic acid)	1
+309.2799	290	FA 20:1 (Gondoic acid)	0
+307.2642	272	FA 20:2 (Eicosadienoic acid)	0
+305.2486	252	FA 20:3 (Homolinoleic acid)	1
+303.2329	239	FA 20:4 (Arachidonic acid)	1
+301.2173	224	FA 20:5 (Eicosapentaenoic acid)	1
+331.2642	258	FA 22:4 (Docosatetraenoic acid)	0
+329.2486	240	FA 22:5 n-3 or n-5	1
+327.233	227	Docosahexaenoic acid (FA 22:6)	1
+361.2596	226	MG(14:0	1
+391.2621	251	MG(18:1	1
+345.2071	98	11-deoxycortisol	0
+375.2905	196	Lithocholic acid	0
+391.2853	138	Chenodeoxycholate (CDCA)	0
+391.2853	138	Deoxycholate (CDA)	0
+391.2853	138	CDCA	0
+407.2803	90	Cholic acid	0
+271.1704	152	Estradiol 17-alpha	1
+167.0211	21	Urate	0
+426.0221	36	Adenosine diphosphate	0
+267.0735	24	Inosine	0
+427.0062	20	Inosine diphosphate	0
+498.9302	120	PFOS	1
+412.9666	77	PFOA	0
+398.9368	79	PFHxS	0
+462.9629	137	PFNA	0
+512.9598	159	PFDA	1
+154.9905	20	Chlorobenzoate	0
+151.0627	21	[13C5]-L-glutamic acid	0
+221.0526	21	[13C6]-D-glucose	0
+128.0526	28.2	[13C7]-benzoic acid	0
+181.0637	24	[15N]-L-tyrosine	0
+146.0952	42	[2-15N]-L-lysine dihydrochloride	0
+241.0234	21	"[3,3-13C2]-cystine"	0
+0	0	 FA 20:1 (Gondoic acid)	0
+0	0	 FA 22:4 (Docosatetraenoic acid)	0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
+			0
